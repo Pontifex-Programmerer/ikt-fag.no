@@ -1,0 +1,43 @@
+.navbar {
+    background-color: rgb(145, 184, 218);
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    padding: 10px 0;
+    width: 100%;
+}
+
+.navbar .logo {
+    display: inline-block;
+    margin: 0;
+    width: 10em;
+}
+
+.navbar .logo {
+    padding: 0 2em;
+}
+
+.navbar ul {
+    align-items: right;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0;
+    width: fit-content;
+}
+
+.navbar li {
+    align-self: flex-end;
+    display: inline-block;
+    font-size: 1.2em;
+    margin: 0 2em;
+    vertical-align: bottom;
+}
+
+.navbar a {
+    text-decoration: none;
+}
+
+.nabar li a {
+    color: aliceblue;
+}

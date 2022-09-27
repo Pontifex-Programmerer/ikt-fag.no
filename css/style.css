@@ -1,0 +1,43 @@
+body {
+    font-family: 'Ubuntu';
+}
+
+.submenu {
+    display: none;
+    background-color: blue;
+}
+
+.students table {
+    font-size: 1.5em;
+    margin: 2em auto;
+    background-color: aliceblue;
+    width: 50%;
+}
+
+.students table caption {
+    font-weight: bold;
+    margin: 1em;
+}
+
+.students table th {
+    font-weight: 500;
+    text-align: left;
+}
+
+.students th {
+    background-color: var(--table-headers);
+    color: var(--table-header-color)
+}
+
+.students td {
+    padding: 3px;
+    border-bottom: 1px solid;
+    border-color: rgb(255, 255, 255);
+    background-color: var(--table-td);
+    color: var(--table-td-text);
+}
+
+.students td a {
+    color: var(--table-td-text)
+    text-decoration: none;
+}
