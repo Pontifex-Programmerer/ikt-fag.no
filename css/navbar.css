@@ -1,5 +1,6 @@
 .navbar {
-    background-color: rgb(145, 184, 218);
+    background-color: var(--nav-BG);
+    color: var(--nav-text);
     display: flex;
     justify-content: space-between;
     margin: 0;
@@ -35,6 +36,7 @@
 }
 
 .navbar a {
+    color: var(--nav-text);
     text-decoration: none;
 }
 

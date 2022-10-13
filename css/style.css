@@ -9,7 +9,7 @@ body {
 
 .students table {
     font-size: 1.5em;
-    margin: 2em auto;
+    margin: 0 auto;
     background-color: aliceblue;
     width: 50%;
 }
@@ -38,6 +38,6 @@ body {
 }
 
 .students td a {
-    color: var(--table-td-text)
+    color: var(--table-td-text);
     text-decoration: none;
 }
