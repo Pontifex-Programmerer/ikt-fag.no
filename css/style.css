@@ -41,3 +41,16 @@ body {
     color: var(--table-td-text);
     text-decoration: none;
 }
+
+.content_wrapper {
+    width: 80%;
+    margin: 2em auto;
+}
+
+.image {
+    width: 100%;
+}
+
+.image img {
+    width: 100%;
+}

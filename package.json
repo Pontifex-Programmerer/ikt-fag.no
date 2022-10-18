@@ -1,0 +1,19 @@
+{
+  "name": "ikt-fag.no",
+  "version": "1.0.0",
+  "description": "ikt-fag sitt nettsted",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pontifex-Programmerer/ikt-fag.no.git"
+  },
+  "author": "Geir Hilmersen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pontifex-Programmerer/ikt-fag.no/issues"
+  },
+  "homepage": "https://github.com/Pontifex-Programmerer/ikt-fag.no#readme"
+}
